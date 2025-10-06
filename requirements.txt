@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+3.  **Triển khai:** Tiếp tục **Bước 2** trong Canvas để triển khai ứng dụng trên Streamlit Community Cloud.
